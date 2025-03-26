@@ -1,0 +1,3 @@
+Chicken Alfredo,6,true
+Carrot Cake,15,true
+Kazoo,25,true

@@ -1,0 +1,13 @@
+Apple,2,true
+Chicken Parm,6,true
+Steel Drum,25,true
+Pumpkin Pie,13,true
+Chicken Alfredo,6,true
+Ticket To Magic Show,30,true
+Poison Apple,4,true
+Congealed Blood Pie,15,true
+Ticket For Haunted Maze,35,true
+Smoked Salmon,9,true
+Sushi,4,true
+Reed Flute,25,true
+Bongos,23,true

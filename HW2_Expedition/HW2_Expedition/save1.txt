@@ -1,0 +1,29 @@
+townOrder: Woodborough
+townOrder: Greenville
+townOrder: Rainbow End
+townOrder: Dayton
+townOrder: Pippinpaddleopsicopolis
+townOrder: New Grim
+townOrder: Lookout Point
+townOrder: East Hollow
+townOrder: 
+visited: Troutbeck
+visited: Tarrey Town
+Trapeze: John,100
+Clown: Justin,100
+BeastTamer: Noah,100
+Strongman: Tyler,100
+Item: Sushi,4,True
+Item: Sushi,4,True
+Item: Smoked Salmon,9,True
+Item: Smoked Salmon,9,True
+Item: Smoked Salmon,9,True
+Item: Smoked Salmon,9,True
+Item: Smoked Salmon,9,True
+Item: Smoked Salmon,9,True
+Item: Smoked Salmon,9,True
+Item: Smoked Salmon,9,True
+Item: Smoked Salmon,9,True
+Item: Smoked Salmon,9,True
+Item: Smoked Salmon,9,True
+currentCash: 3

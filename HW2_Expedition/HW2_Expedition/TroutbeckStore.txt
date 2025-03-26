@@ -1,0 +1,3 @@
+Smoked Salmon,9,true
+Sushi,4,true
+Reed Flute,25,true

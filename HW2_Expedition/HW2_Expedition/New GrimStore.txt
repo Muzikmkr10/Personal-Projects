@@ -1,0 +1,3 @@
+Poison Apple,4,true
+Congealed Blood Pie,15,true
+Ticket For Haunted Maze,35,true

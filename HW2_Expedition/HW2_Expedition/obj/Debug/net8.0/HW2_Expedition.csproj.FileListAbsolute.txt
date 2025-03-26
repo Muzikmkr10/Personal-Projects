@@ -1,0 +1,15 @@
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\HW2_Expedition.exe
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\HW2_Expedition.deps.json
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\HW2_Expedition.runtimeconfig.json
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\HW2_Expedition.dll
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\HW2_Expedition.pdb
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\HW2_Expedition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\HW2_Expedition.AssemblyInfoInputs.cache
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\HW2_Expedition.AssemblyInfo.cs
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\HW2_Expedition.csproj.CoreCompileInputs.cache
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\HW2_Expedition.sourcelink.json
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\HW2_Expedition.dll
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\refint\HW2_Expedition.dll
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\HW2_Expedition.pdb
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\HW2_Expedition.genruntimeconfig.cache
+C:\Users\mjcla\source\repos\igme106-2245-ind-mjclatts\Homeworks\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\ref\HW2_Expedition.dll

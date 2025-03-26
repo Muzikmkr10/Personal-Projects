@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "HW2_Expedition": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
