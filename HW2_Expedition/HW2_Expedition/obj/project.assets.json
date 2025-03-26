@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mjcla\\source\\repos\\igme106-2245-ind-mjclatts\\Homeworks\\HW2_Expedition\\HW2_Expedition\\HW2_Expedition.csproj",
+      "projectUniqueName": "C:\\Users\\mjcla\\source\\repos\\Personal-Projects\\HW2_Expedition\\HW2_Expedition\\HW2_Expedition.csproj",
       "projectName": "HW2_Expedition",
-      "projectPath": "C:\\Users\\mjcla\\source\\repos\\igme106-2245-ind-mjclatts\\Homeworks\\HW2_Expedition\\HW2_Expedition\\HW2_Expedition.csproj",
+      "projectPath": "C:\\Users\\mjcla\\source\\repos\\Personal-Projects\\HW2_Expedition\\HW2_Expedition\\HW2_Expedition.csproj",
       "packagesPath": "C:\\Users\\mjcla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mjcla\\source\\repos\\igme106-2245-ind-mjclatts\\Homeworks\\HW2_Expedition\\HW2_Expedition\\obj\\",
+      "outputPath": "C:\\Users\\mjcla\\source\\repos\\Personal-Projects\\HW2_Expedition\\HW2_Expedition\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,7 +51,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
