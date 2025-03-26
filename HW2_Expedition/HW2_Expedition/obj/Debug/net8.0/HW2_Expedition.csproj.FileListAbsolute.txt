@@ -28,3 +28,16 @@ C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\obj\
 C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\HW2_Expedition.pdb
 C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\HW2_Expedition.genruntimeconfig.cache
 C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\obj\Debug\net8.0\ref\HW2_Expedition.dll
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\AllPossibleItems.txt
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\DaytonStore.txt
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\East HollowStore.txt
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\GreenvilleStore.txt
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\Lookout PointStore.txt
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\New GrimStore.txt
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\PartyMembers.txt
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\PippinpaddleopsicopolisStore.txt
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\Rainbow EndStore.txt
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\Tarrey TownStore.txt
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\TownList.txt
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\TroutbeckStore.txt
+C:\Users\mjcla\source\repos\Personal-Projects\HW2_Expedition\HW2_Expedition\bin\Debug\net8.0\WoodboroughStore.txt
