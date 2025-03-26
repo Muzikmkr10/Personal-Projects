@@ -91,7 +91,7 @@ namespace HW2_Expedition
 
             try
             {
-                reader = new StreamReader("../../../" + fileName);
+                reader = new StreamReader("./" + fileName);
 
                 string line = null;
 

@@ -416,7 +416,7 @@ namespace HW2_Expedition
 
             try
             {
-                reader = new StreamReader("../../../PartyMembers.txt");
+                reader = new StreamReader("./PartyMembers.txt");
 
                 //Ask about File.ReadAllText and File.ReadLines
                 //string[] lines = null;
@@ -474,7 +474,7 @@ namespace HW2_Expedition
 
             try
             {
-                reader = new StreamReader("../../../" + fileName);
+                reader = new StreamReader("./" + fileName);
 
                 //Ask about File.ReadAllText and File.ReadLines
                 //string[] lines = null;
@@ -532,7 +532,7 @@ namespace HW2_Expedition
 
             try
             {
-                reader = new StreamReader("../../../" + fileName);
+                reader = new StreamReader("./" + fileName);
 
                 string line = null;
 

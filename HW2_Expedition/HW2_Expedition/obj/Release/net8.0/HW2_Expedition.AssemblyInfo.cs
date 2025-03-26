@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW2_Expedition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b65af7a5dafb8e03e7283163134215e1ac8cb813")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3c302e328d844e4c0586c3067698b473af89d99")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW2_Expedition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW2_Expedition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

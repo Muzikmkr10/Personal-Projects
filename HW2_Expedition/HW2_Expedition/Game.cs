@@ -564,7 +564,7 @@ namespace HW2_Expedition
 
             try
             {
-                reader = new StreamReader("../../../TownList.txt");
+                reader = new StreamReader("./TownList.txt");
 
                 //Ask about File.ReadAllText and File.ReadLines
                 //string[] lines = null;
@@ -614,7 +614,7 @@ namespace HW2_Expedition
 
             try
             {
-                reader = new StreamReader("../../../" + fileName);
+                reader = new StreamReader("./" + fileName);
 
                 townOrder.Clear();
 
@@ -672,7 +672,7 @@ namespace HW2_Expedition
 
             try
             {
-                reader = new StreamReader("../../../" + fileName);
+                reader = new StreamReader("./" + fileName);
 
                 townOrder.Clear();
 
@@ -731,7 +731,7 @@ namespace HW2_Expedition
             StreamWriter writer = null;
             while (wantSave)
             {
-                while (File.Exists($"../../../{fileName}.txt"))
+                while (File.Exists($"./{fileName}.txt"))
                 {
                     TextColors.Error("A file with this name already exists. Are you sure that you want to overwrite this file? (Y)es/(N)o\n");
                     string choice = Console.ReadLine().Trim().ToUpper();
@@ -760,7 +760,7 @@ namespace HW2_Expedition
 
                 try
                 {
-                    writer = new StreamWriter("../../../" + fileName + ".txt");
+                    writer = new StreamWriter("./" + fileName + ".txt");
 
                     int townOrderCount = townOrder.Count;
                     for (int i = 0; i < townOrderCount; i++)
